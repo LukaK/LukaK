@@ -22,6 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your Kubernetes Cluster with Cert-Manager and Self-Signed Certificates](https://www.itguyjournals.com/kubernetes-with-cert-manager-and-self-signed-certificates/)
 <!-- BLOG-POST-LIST:END -->
 
 
