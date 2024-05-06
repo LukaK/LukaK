@@ -34,3 +34,10 @@
 <!-- ### 📊 Stats -->
 <!--  -->
 <!-- ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaK&show_icons=true&theme=gruvbox) -->
+
+
+### 💬 Connect with me
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/luka-krapic
