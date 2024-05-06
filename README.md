@@ -25,3 +25,12 @@
 <!-- BLOG-POST-LIST:START -->
 - [Secure Your Kubernetes Cluster with Cert-Manager and Self-Signed Certificates](https://www.itguyjournals.com/kubernetes-with-cert-manager-and-self-signed-certificates/)
 <!-- BLOG-POST-LIST:END -->
+
+#
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-See%20More%20-blue?style=for-the-badge&logo=book&logoColor=white"/>](https://www.itguyjournals.com/)
+
+
+<!-- ### 📊 Stats -->
+<!--  -->
+<!-- ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaK&show_icons=true&theme=gruvbox) -->
