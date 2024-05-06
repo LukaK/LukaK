@@ -4,6 +4,7 @@
 ---
 
 ### 🧰 Languages and Tools
+<!-- icons: https://devicon.dev/ -->
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -24,19 +25,3 @@
 <!-- BLOG-POST-LIST:START -->
 - [Secure Your Kubernetes Cluster with Cert-Manager and Self-Signed Certificates](https://www.itguyjournals.com/kubernetes-with-cert-manager-and-self-signed-certificates/)
 <!-- BLOG-POST-LIST:END -->
-
-
-<!--
-**LukaK/LukaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
