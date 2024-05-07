@@ -1,10 +1,10 @@
 # Luka Krapić
-**`Cloud Engineer/Developer/Solution Architect`**
+**`Cloud Engineer/Developer`**
 
 ---
 
 ### 🧰 Languages and Tools
-<!-- icons: https://devicon.dev/ -->
+<!-- icons: https://devicon.dev/, https://simpleicons.org/-->
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -37,7 +37,8 @@
 
 
 ### 💬 Connect with me
-
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://linkedin.com/in/luka-krapic
+[email]: mailto:luka.krapic@gmail.com
