@@ -40,10 +40,8 @@
 ### 💬 Connect with me
 [<img align="left" alt="LukaKrapic | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="LukaKrapic | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="LukaKrapic | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="LukaKrapic | Companyl" width="45px" src="./assets/company-logo.svg" />][company]
 
 [linkedin]: https://linkedin.com/in/luka-krapic
 [twitter]: https://twitter.com/luka_krapic
-[email]: mailto:luka.krapic@gmail.com
 [company]: https://www.caautomations.com/contact
