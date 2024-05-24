@@ -23,6 +23,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Secret Management in CI/CD Workflows Using Kubernetes Sealed Secrets](https://www.itguyjournals.com/efficient-ci-workflows-with-sealed-secrets/)
 - [Building an AI Playground with Ollama and Open WebUI: A Hands-On Introduction for Beginners](https://www.itguyjournals.com/getting-started-with-ollama/)
 - [Secure Your Kubernetes Cluster with Cert-Manager and Self-Signed Certificates](https://www.itguyjournals.com/kubernetes-with-cert-manager-and-self-signed-certificates/)
 <!-- BLOG-POST-LIST:END -->
