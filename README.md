@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a SOHO Network with Ubiquiti UniFi: Step-by-Step Guide](https://www.itguyjournals.com/untitled/)
 - [Organizing Terraform Modules](https://www.itguyjournals.com/organizing-terraform-modules/)
 - [Tiered Access To CloudFront Content With Self-Signed Cookies](https://www.itguyjournals.com/cloudfront-self-signed-cookies/)
 - [Multi-Account Cloud Deployment With Terraform And Github Actions](https://www.itguyjournals.com/multi-account-cloud-deployment-with-terraform-and-github-actions/)
 - [Tiered Access To S3 Data With Presigned URLs](https://www.itguyjournals.com/s3-tiered-access-with-presigned-urls/)
-- [Efficient Secret Management In CI/CD Workflows Using Kubernetes Sealed Secrets](https://www.itguyjournals.com/efficient-ci-workflows-with-sealed-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 #
