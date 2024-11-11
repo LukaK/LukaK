@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizing Terraform Projects with Terragrunt](https://www.itguyjournals.com/organizing-terraform-projects-with-terragrunt/)
-- [Building a SOHO Network with Ubiquiti UniFi: Step-by-Step Guide](https://www.itguyjournals.com/untitled/)
-- [Organizing Terraform Modules](https://www.itguyjournals.com/organizing-terraform-modules/)
-- [Tiered Access To CloudFront Content With Self-Signed Cookies](https://www.itguyjournals.com/cloudfront-self-signed-cookies/)
-- [Multi-Account Cloud Deployment With Terraform And Github Actions](https://www.itguyjournals.com/multi-account-cloud-deployment-with-terraform-and-github-actions/)
+- [Organizing Terraform Projects With Terragrunt](https://www.itguyjournals.com/blog/organizing-terraform-projects-with-terragrunt/)
+- [Building SOHO Network With Ubiquiti UniFi: Step-By-Step Guide](https://www.itguyjournals.com/blog/building-soho-network-with-ubiquiti-unifi/)
+- [Organizing Terraform Modules](https://www.itguyjournals.com/blog/organizing-terraform-modules/)
+- [Tiered Access To CloudFront Content With Self-Signed Cookies](https://www.itguyjournals.com/blog/tiered-access-to-cloudfront-content-with-self-signed-cookies/)
+- [Multi-Account Cloud Deployment With Terraform And Github Actions](https://www.itguyjournals.com/blog/multi-account-cloud-deployment-with-terraform-and-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 #
