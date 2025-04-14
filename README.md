@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Backend APIs with FastAPI on AWS Lambda](https://www.itguyjournals.com/blog/building-backend-apis-with-fastapi-on-aws-lambda/)
 - [Building Websites at Scale With Aws CloudFront and Hugo](https://www.itguyjournals.com/blog/building-websites-at-scale-with-aws-cloudfront-and-hugo/)
 - [Organizing Terraform Projects With Terragrunt](https://www.itguyjournals.com/blog/organizing-terraform-projects-with-terragrunt/)
 - [Building SOHO Network With Ubiquiti UniFi: Step-By-Step Guide](https://www.itguyjournals.com/blog/building-soho-network-with-ubiquiti-unifi/)
 - [Organizing Terraform Modules](https://www.itguyjournals.com/blog/organizing-terraform-modules/)
-- [Tiered Access To CloudFront Content With Self-Signed Cookies](https://www.itguyjournals.com/blog/tiered-access-to-cloudfront-content-with-self-signed-cookies/)
 <!-- BLOG-POST-LIST:END -->
 
 #
