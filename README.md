@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Portable FastAPI Backend for AWS Lambda and ECS Using Terraform](https://www.itguyjournals.com/blog/building-fastapi-backend-for-aws-lambda-and-ecs-using-terraform/)
 - [Setting Up a Synology NAS for Your Homelab: The Complete Guide](https://www.itguyjournals.com/blog/setting-up-a-synology-nas-for-your-homelab/)
 - [Cloud Storage Is Getting Expensive — Here’s Why I Switched to Synology NAS](https://www.itguyjournals.com/blog/why-i-switched-to-synology-nas/)
 - [Building Backend APIs with FastAPI on AWS Lambda](https://www.itguyjournals.com/blog/building-backend-apis-with-fastapi-on-aws-lambda/)
 - [Building Websites at Scale With Aws CloudFront and Hugo](https://www.itguyjournals.com/blog/building-websites-at-scale-with-aws-cloudfront-and-hugo/)
-- [Organizing Terraform Projects With Terragrunt](https://www.itguyjournals.com/blog/organizing-terraform-projects-with-terragrunt/)
 <!-- BLOG-POST-LIST:END -->
 
 #
