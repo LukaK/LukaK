@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Telemetry Systems: The Backbone of Observability](https://www.itguyjournals.com/introduction-to-telemetry-systems/)
 - [Building a Portable FastAPI Backend for AWS Lambda and ECS Using Terraform](https://www.itguyjournals.com/building-fastapi-backend-for-aws-lambda-and-ecs-using-terraform/)
 - [Setting Up a Synology NAS for Your Homelab: The Complete Guide](https://www.itguyjournals.com/setting-up-a-synology-nas-for-your-homelab/)
 - [Cloud Storage Is Getting Expensive — Here’s Why I Switched to Synology NAS](https://www.itguyjournals.com/why-i-switched-to-synology-nas/)
 - [Building Backend APIs with FastAPI on AWS Lambda](https://www.itguyjournals.com/building-backend-apis-with-fastapi-on-aws-lambda/)
-- [Building Websites at Scale With Aws CloudFront and Hugo](https://www.itguyjournals.com/building-websites-at-scale-with-aws-cloudfront-and-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 #
