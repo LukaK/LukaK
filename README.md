@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Home Virtualization Server With Proxmox](https://www.itguyjournals.com/building-a-home-virtualization-server-with-proxmox/)
 - [Structured Logging in Python](https://www.itguyjournals.com/structured-logging-in-python/)
 - [Introduction to Telemetry Systems: The Backbone of Observability](https://www.itguyjournals.com/introduction-to-telemetry-systems/)
 - [Building a Portable FastAPI Backend for AWS Lambda and ECS Using Terraform](https://www.itguyjournals.com/building-fastapi-backend-for-aws-lambda-and-ecs-using-terraform/)
 - [Setting Up a Synology NAS for Your Homelab: The Complete Guide](https://www.itguyjournals.com/setting-up-a-synology-nas-for-your-homelab/)
-- [Cloud Storage Is Getting Expensive — Here’s Why I Switched to Synology NAS](https://www.itguyjournals.com/why-i-switched-to-synology-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 #
