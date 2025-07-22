@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Telemetry Systems Evolve with Infrastructure: Example Architectures from Startup to Enterprise](https://www.itguyjournals.com/how-telemetry-systems-evolve-with-infrastructure/)
 - [Building a Home Virtualization Server With Proxmox](https://www.itguyjournals.com/building-a-home-virtualization-server-with-proxmox/)
 - [Structured Logging in Python](https://www.itguyjournals.com/structured-logging-in-python/)
 - [Introduction to Telemetry Systems: The Backbone of Observability](https://www.itguyjournals.com/introduction-to-telemetry-systems/)
 - [Building a Portable FastAPI Backend for AWS Lambda and ECS Using Terraform](https://www.itguyjournals.com/building-fastapi-backend-for-aws-lambda-and-ecs-using-terraform/)
-- [Setting Up a Synology NAS for Your Homelab: The Complete Guide](https://www.itguyjournals.com/setting-up-a-synology-nas-for-your-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 #
